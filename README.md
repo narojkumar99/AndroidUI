@@ -1,6 +1,6 @@
 # AndroidUI
 
-###博客地址：
+###博
 
 1. http://blog.majiajie.me/
 
@@ -28,4 +28,4 @@ PS: 第一次使用的话, 可能会出现下面这个提示:
 
 R)eject, accept (t)emporarily or accept (p)ermanently?
 
-输入 P 就行了.
+
